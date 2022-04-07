@@ -9,7 +9,8 @@
 ### About Me:
   I am a FullStack Developer from Fort Worth, Texas, USA. I recently completed DevMountain specializing in Python and look forward to furthing my education in getting a BS in the near future. 
 
-### 🔭 I’m currently working on developing a CTMS(Clinical Trial Management System) and a ML Card recognition apps to help further develop my skills.
+### 🔭 I’m currently working on: 
+  Developing a CTMS(Clinical Trial Management System) and a ML Card recognition apps to help further develop my skills.
 
 
 ### :hammer_and_wrench: Languages and Tools : 
