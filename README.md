@@ -7,10 +7,7 @@
  </div>
  
 ### About Me:
-  I am a FullStack Developer from Fort Worth, Texas, USA. I recently completed DevMountain specializing in Python and look forward to furthing my education in getting a BS in the near future. 
-
-### 🔭 I’m currently working on: 
-  Updating and continuting work on my Galactic Trove Web Application as well as developing a CTMS(Clinical Trial Management System) and a ML Card recognition apps to help further develop my skills.
+  I am a FullStack Developer from Streetman, Texas, USA with about a year of professional development under my belt. 
 
 
 ### :hammer_and_wrench: Languages and Tools : 
